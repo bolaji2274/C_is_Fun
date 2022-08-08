@@ -1,0 +1,7 @@
+# Name : Bolaji Hammed
+
+#project 1
+  Write a c program that ask the user to enter a string.The program should then print the following
+  i.The total number of character in the string 
+  ii.The string repeated 10 times 
+  iii.The first character of the string
