@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# Parameter will be pass to this shell to commit a message to the repoository
+git status
+sleep 2
+git add .
+sleep 2
+git status
+sleep 2 
+myCommit=$1
+git commit -m $myCommit
+sleep 2
+git push
+
+
